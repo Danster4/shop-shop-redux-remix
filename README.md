@@ -34,6 +34,6 @@ There are currently no tests for this application.
 
 ## Questions
 
-My GitHub username is danster4. The link to our Heroku website for this web application is (https://arcane-tor-84590.herokuapp.com/). The link to this project's repository is https://github.com/Danster4/shop-shop-redux-remix The link to my GitHub profile is https://github.com/danster4 . If you would like to contact me for any questions/concerns, please email me at danielmedfordurkov@gmail.com. 
+My GitHub username is danster4. The link to the Heroku website for this web application is (https://arcane-tor-84590.herokuapp.com/). The link to this project's repository is https://github.com/Danster4/shop-shop-redux-remix The link to my GitHub profile is https://github.com/danster4 . If you would like to contact me for any questions/concerns, please email me at danielmedfordurkov@gmail.com. 
 
 ## ©️2022 danster4
