@@ -2,7 +2,7 @@
 
 ## Description
 Challenge 22: State Challenge: Redux Store 
-This is a web application that allows to you sort items in an online store by categories, add them to you cart, and test pruchasing them. This is a complete MERN stack application with Redux and Stripe.
+This is a web application that allows to you sort items in an online store by categories, add them to you cart, and test purchasing them. This is a complete MERN stack application with Redux and Stripe.
 
 ## Table of Contents
 * [Installation](#installation)
